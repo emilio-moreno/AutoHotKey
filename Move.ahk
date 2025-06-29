@@ -1,0 +1,39 @@
+#Requires AutoHotkey v2.0
+
+; Kill
+^Esc::ExitApp
+
+; Move
+!I::Send "{Up}"
+!K::Send "{Down}"
+!L::Send "{Right}"
+!J::Send "{Left}"
+
+; Move faster
+^!I::Send "^{Up}"
+^!K::Send "^{Down}"
+^!L::Send "^{Right}"
+^!J::Send "^{Left}"
+
+; Move and selectk
+^+!I::Send "^+{Up}"
+^+!K::Send "^+{Down}"
+^+!L::Send "^+{Right}"
+^+!J::Send "^+{Left}"
+
+; Move faster and select
++!I::Send "+{Up}"
++!K::Send "+{Down}"
++!L::Send "+{Right}"
++!J::Send "^{Left}"
+
+; Teleport
+!U::Send "{Home}"
+!O::Send "{End}"
+
+; Teleport and select
++!U::Send "+{Home}"
++!O::Send "+{End}"
+
+; Delete
+!H::Send "{Del}"
