@@ -8,6 +8,8 @@ Up::PopupArrowKeys()
 Down::PopupArrowKeys()
 Left::PopupArrowKeys()
 Right::PopupArrowKeys()
+Home::PopupArrowKeys()
+End::PopupArrowKeys()
 
 ; Displays box to enable arrow keys
 PopupArrowKeys()

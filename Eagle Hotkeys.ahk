@@ -31,6 +31,10 @@ D::ControlClick "x17 y239", "EAGLE 9.6.2 education"		; Delete
 SetControlDelay -1
 W::ControlClick "x17 y333", "EAGLE 9.6.2 education" 	; Net
 SetControlDelay -1
-A::ControlClick "x17 y388", "EAGLE 9.6.2 education"		; Rename
+E::ControlClick "x17 y388", "EAGLE 9.6.2 education"		; Rename
+SetControlDelay -1
+A::ControlClick "x43 y274", "EAGLE 9.6.2 education"		; Add
+SetControlDelay -1
+Q::ControlClick "x43 y361", "EAGLE 9.6.2 education"		; Label
 SetControlDelay -1
 V::ControlClick "x43 y396", "EAGLE 9.6.2 education"		; Value
