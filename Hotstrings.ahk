@@ -1,8 +1,8 @@
 ﻿#Requires AutoHotkey v2.0
 
 ; Kaomoji
-:*?:;tu::ദി( •̀ ᴗ -  ) ✧
-:*?:;tub::ദി(˵ •̀ ᴗ - ˵ ) ✧
+:*?:;tu1::ദി( •̀ ᴗ -  ) ✧
+:*?:;tu2::ദി(˵ •̀ ᴗ - ˵ ) ✧
 :*?:;neko::ฅ({^}{Space}•ω• {^}{Space}ฅ)و "ﾌﾘﾌﾘ
 :*?:;nekko::∩({^}{Space}ΦωΦ{^}{Space})∩
 :*?:;ochaneko::~(={^}{Space}･ω･{^}{Space})_旦~
