@@ -1,8 +1,16 @@
 ﻿#Requires AutoHotkey v2.0
 
+; Mails
+:*?:;emilio::emilio.moreno@ciencias.unam.mx
+:*?:;mugen::mugen.aryv@gmail.com
+:*?:;urth::urth.operator@gmail.com
+:*?:;verth::verth.observer@gmail.com
+
 ; Kaomoji
 :*?:;tu1::ദി( •̀ ᴗ -  ) ✧
 :*?:;tu2::ദി(˵ •̀ ᴗ - ˵ ) ✧
+:*?:;tu3::ദ്ദി(⎚_⎚) ✧
+
 :*?:;neko::ฅ({^}{Space}•ω• {^}{Space}ฅ)و "ﾌﾘﾌﾘ
 :*?:;nekko::∩({^}{Space}ΦωΦ{^}{Space})∩
 :*?:;ochaneko::~(={^}{Space}･ω･{^}{Space})_旦~

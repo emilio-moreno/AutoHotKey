@@ -3,8 +3,6 @@
 ; Kill
 ^Esc::ExitApp
 
-
-#HotIf
 ; Move
 $!I::Send "{Up}"
 $!K::Send "{Down}"
@@ -28,6 +26,13 @@ $^+!I::Send "^+{Up}"
 $^+!K::Send "^+{Down}"
 $^+!L::Send "^+{Right}"
 $^+!J::Send "^+{Left}"
+
+; Windows
+$#!I::Send "+#{Up}"
+$#!K::Send "+#{Down}"
+$#!L::Send "+#{Right}"
+$#!J::Send "+#{Left}"
+
 
 ; Teleport
 $!U::Send "{Home}"
