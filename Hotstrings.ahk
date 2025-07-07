@@ -1,5 +1,10 @@
 ﻿#Requires AutoHotkey v2.0
 
+; Mails
+:*?:;emilio::emilio.moreno@ciencias.unam.mx
+:*?:;urth::urth.operator@gmail.com
+:*?:;verth::verth.observer@gmail.com
+
 ; Kaomoji
 :*?:;tu1::ദി( •̀ ᴗ -  ) ✧
 :*?:;tu2::ദി(˵ •̀ ᴗ - ˵ ) ✧
