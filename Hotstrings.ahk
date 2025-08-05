@@ -24,7 +24,7 @@
 ; TeX
 :*?::bf::\mathbf{{}{}}{left 1}
 :*?::rm::\mathrm{{}{}}{left 1}
-:*?::/::\frac{{}{}}{left 1}
+:*?::/::\frac{{}{}}{{}{}}{left 3}
 :*?::sin::\sin{{}{}}{left 1}
 :*?::cos::\cos{{}{}}{left 1}
 :*?::exp::\exp{{}{}}{left 1}
