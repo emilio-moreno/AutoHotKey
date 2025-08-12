@@ -9,6 +9,9 @@ $!K::Send "{Down}"
 $!L::Send "{Right}"
 $!J::Send "{Left}"
 
+; Delete
+!H::Send "{Del}"
+
 ; Move faster
 $^!I::Send "^{Up}"
 $^!K::Send "^{Down}"
@@ -33,7 +36,6 @@ $#!K::Send "+#{Down}"
 $#!L::Send "+#{Right}"
 $#!J::Send "+#{Left}"
 
-
 ; Teleport
 $!U::Send "{Home}"
 $!O::Send "{End}"
@@ -47,5 +49,6 @@ $!7::Send "{Volume_Mute}"
 $!8::Send "{Volume_Down down}"
 $!9::Send "{Volume_Up}"
 
-; Delete
-!H::Send "{Del}"
+; Apps
+$#!n::Run "notepad"
+$#!c::Run "C:\Windows\System32\calc.exe"
