@@ -2,6 +2,7 @@
 
 ; Mails
 :*?:;emilio::emilio.moreno@ciencias.unam.mx
+:*?:;emif::emilioml@estudiantes.fisica.unam.mx
 :*?:;mugen::mugen.aryv@gmail.com
 :*?:;urth::urth.operator@gmail.com
 :*?:;verth::verth.observer@gmail.com
