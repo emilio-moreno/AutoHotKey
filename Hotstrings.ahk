@@ -3,7 +3,7 @@
 ; Mails
 :*?:;emilio::emilio.moreno@ciencias.unam.mx
 :*?:;emif::emilioml@estudiantes.fisica.unam.mx
-:*?:;mugen::mugen.aryv@gmail.com
+:*?:;mgen::mugen.aryv@gmail.com
 :*?:;urth::urth.operator@gmail.com
 :*?:;verth::verth.observer@gmail.com
 
@@ -23,13 +23,13 @@
 :*?::--::—
 
 ; TeX
-:*?::bf::\mathbf{{}{}}{left 1}
-:*?::rm::\mathrm{{}{}}{left 1}
-:*?::/::\frac{{}{}}{{}{}}{left 3}
-:*?::sin::\sin{{}{}}{left 1}
-:*?::cos::\cos{{}{}}{left 1}
-:*?::exp::\exp{{}{}}{left 1}
-:*?::(::\left(\right){left 7}
+:*?:;bf::\mathbf{{}{}}{left 1}
+:*?:;rm::\mathrm{{}{}}{left 1}
+:*?:;/::\frac{{}{}}{{}{}}{left 3}
+:*?:;sin::\sin{{}{}}{left 1}
+:*?:;cos::\cos{{}{}}{left 1}
+:*?:;exp::\exp{{}{}}{left 1}
+:*?:;(::\left(\right){left 7}
 
 
 ; Math/Physics symbols
@@ -37,13 +37,15 @@
 :*?:;par::∂
 :*?:;int::∫
 :*?:;nabla::∇
-:*?:;implies::⇒
-:*?:;forall::∀
-:*?:;exists::∃
-:*?:;car::{^}{Space}
+
 :*?:;bra::|⟩{left 1}
 :*?:;ket::⟨|{left 1}
 :*?:;brket::⟨⟩{left 1}
+
+:*?:;car::{^}{Space}
+:*?:;implies::⇒
+:*?:;forall::∀
+:*?:;exists::∃
 
 ; Arrows
 :*?:;uarr::↑
