@@ -3,7 +3,7 @@
 ; Mails
 :*?:;emilio::emilio.moreno@ciencias.unam.mx
 :*?:;emif::emilioml@estudiantes.fisica.unam.mx
-:*?:;mgen::mugen.aryv@gmail.com
+:*?:;mgen::mugen.arxyv@gmail.com
 :*?:;urth::urth.operator@gmail.com
 :*?:;verth::verth.observer@gmail.com
 
@@ -46,6 +46,8 @@
 :*?:;implies::⇒
 :*?:;forall::∀
 :*?:;exists::∃
+
+:*?:;diam::∅
 
 ; Arrows
 :*?:;uarr::↑
